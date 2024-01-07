@@ -3,7 +3,6 @@ import { Suspense } from 'react'
 import { Canvas } from "@react-three/fiber"
 import Loader from '../components/Loader'
 import Island from '../models/island'
-import Sky from '../models/sky'
 import Bird from '../models/Bird'
 import Plane from '../models/Plane'
 import HomeInfo from '../components/HomeInfo'
@@ -11,6 +10,7 @@ import HomeInfo from '../components/HomeInfo'
 import sakura from '../assets/sakura.mp3'
 import theme from '../assets/theme.mp3'
 import { soundoff, soundon } from '../assets/icons'
+import Sky from '../models/sky'
 
 
 
