@@ -210,7 +210,7 @@ export const projects = [
         theme: 'btn-back-pink',
         name: '3D-Fun',
         description: 'Fun 3d webpage with interactive models and animations using Three.js and React.js.',
-        link: 'https://github.com/moutikpatel/3D-Fun',
+        link: 'https://3-d-fun.vercel.app/',
     },
     {
         iconUrl: estate,
