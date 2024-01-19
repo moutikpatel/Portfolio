@@ -194,9 +194,9 @@ export const projects = [
     {
         iconUrl: threads,
         theme: 'btn-back-green',
-        name: 'Pokedex',
-        description: '"Your go-to online Pokédex for quick and easy access to comprehensive Pokémon information."',
-        link: 'https://github.com/moutikpatel/Pokedex',
+        name: 'ShowBizz',
+        description: '"TV Production Management App  - Welcome to the Show Bizz repository! This project is an advanced web application developed  focusing on enhancing TV production management with rich text support and media item uploads"',
+        link: 'https://github.com/moutikpatel/ShowBizz',
     },
     {
         iconUrl: car,
