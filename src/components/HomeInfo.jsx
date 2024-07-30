@@ -10,7 +10,9 @@ const HomeInfo = ({ currentStage }) => {
         <span className='font-semibold mx-2 text-white'>Moutik</span>
         👋
         <br />
-        A Web Developer from Canada 
+        A Web Developer from Canada.
+        <br />
+        Drag the screen around for better experience.
       </h1>
     );
 
