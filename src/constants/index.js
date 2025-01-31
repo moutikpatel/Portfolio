@@ -151,7 +151,7 @@ export const experiences = [
         ],
     },
     {
-        title: "IT Support Technologist",
+        title: "IT Support",
         company_name: "Bank Of India",
         icon: meta,
         iconBg: "#a2d2ff",
