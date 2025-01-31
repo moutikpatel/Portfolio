@@ -111,11 +111,11 @@ export const skills = [
 
 export const experiences = [
     {
-        title: "IT Support & Hyflex Ambassador",
+        title: "Technical Support",
         company_name: "Seneca College",
         icon: starbucks,
         iconBg: "#accbe1",
-        date: "May 2023 - December 2023",
+        date: "Sept 2021 - Present",
         points: [
             "Assisted professors with IT-related problems",
             "Installed/upgraded computer workstations campus-wide",
